@@ -1,0 +1,11 @@
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\bin\Release\CalculadoraMatrizes.exe
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\bin\Release\CalculadoraMatrizes.pdb
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\obj\x86\Release\CalculadoraMatrizes.Form1.resources
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\obj\x86\Release\CalculadoraMatrizes.Properties.Resources.resources
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\obj\x86\Release\CalculadoraMatrizes.csproj.GenerateResource.Cache
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\obj\x86\Release\CalculadoraMatrizes.exe
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\obj\x86\Release\CalculadoraMatrizes.pdb
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\bin\Release\CalculadoraMatrizes.exe.manifest
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\bin\Release\CalculadoraMatrizes.application
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\obj\x86\Release\CalculadoraMatrizes.exe.manifest
+C:\Users\Nuno\Documents\Visual Studio 2010\Projects\CalculadoraMatrizes\CalculadoraMatrizes\obj\x86\Release\CalculadoraMatrizes.application
